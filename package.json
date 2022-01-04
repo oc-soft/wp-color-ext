@@ -1,0 +1,27 @@
+{
+  "name": "@oc-soft/wp-color-ext",
+  "version": "1.0.0",
+  "description": "extends automattic color class to be able to support color alpha value.",
+  "main": "dist/color-ext.js",
+  "scripts": {
+    "build": "rollup -c rollup.config.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "key": "git",
+    "url": "https://github.com/oc-soft/wp-color-ext.git"
+  },
+  "keywords": [
+    "wordpress",
+    "color",
+    "picker",
+    "color-picker",
+    "alpha",
+    "slider"
+  ],
+  "author": "Toshiyuki Ogawa",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^2.62.0"
+  }
+}
