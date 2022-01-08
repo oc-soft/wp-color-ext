@@ -1,6 +1,6 @@
 {
   "name": "@oc-soft/wp-color-ext",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "extends automattic color class to be able to support color alpha value.",
   "main": "dist/color-ext.js",
   "scripts": {
